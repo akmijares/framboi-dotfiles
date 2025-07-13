@@ -24,6 +24,6 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 fastfetch
-alias archvm='ssh -p 1414 sp33dy905@10.147.17.137'
+alias archvm='kitten ssh -p 1414 sp33dy905@10.147.17.137'
 alias archyboi='ssh karlo@10.147.17.4'
 alias archdistro='distrobox enter arch-distrobox'
