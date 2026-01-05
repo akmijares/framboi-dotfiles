@@ -24,6 +24,8 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 fastfetch
-alias archvm='kitten ssh -p 1414 sp33dy905@100.73.11.82'
-alias archyboi='kitten ssh karlo@10.147.17.4'
+alias archvm='ssh -p 1414 sp33dy905@100.73.11.82'
+alias archyboi='ssh karlo@10.147.17.4'
 alias archdistro='distrobox enter arch-distrobox'
+alias up-2='ssh linuxuser@up-2.sp33dyboi.xyz'
+alias zola="flatpak run org.getzola.zola"
