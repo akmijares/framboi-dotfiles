@@ -6,6 +6,5 @@ Mostly just for customization purposes.
 
 
 Details:
-1. Terminal: [kitty](https://sw.kovidgoyal.net/kitty/)
-2. Terminal theme: [Highway](https://github.com/dexpota/kitty-themes/blob/master/themes/Highway.conf)
-3. *fetch: [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+1. Terminal: [Konsole](https://apps.kde.org/konsole/) Note: I switched to Konsole a while back, but keeping the kitty config files for archive purposes
+2. *fetch: [fastfetch](https://github.com/fastfetch-cli/fastfetch)
